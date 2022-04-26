@@ -2,6 +2,9 @@
 Decryptor for HTTP Custom, HTTP Injector, APK Custom, eProxy, NapsternetV and SocksHTTP-based configuration files.
 ### This is an javascript port of HCDecryptor tool made by the HCTools Group, using the HCDrill-tg bot codebase
 
+### Deploy Page
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikuvamzz/hctool)
+
 # Requirements
 - Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download")
 - Once installed Node.JS, execute "install-dep" .sh/.bat script depending on your platform, or...
