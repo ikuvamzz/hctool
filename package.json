@@ -10,6 +10,8 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "fast-xml-parser": "^3.17.5",
-    "html-entities": "^1.4.0"
+    "html-entities": "^1.4.0",
+    "node-telegram-bot-api",
+    "sync-request"
   }
 }
