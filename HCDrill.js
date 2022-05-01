@@ -186,7 +186,7 @@ bot.on('message', function(message) {
             if(cleanFiles) { fs.unlinkSync(configFile["storagePath"] + localResponse["localName"]); }
             //removing characters that may be foreign to telegram idk
             decryptionStage["content"] = decryptionStage["content"].replace(/[\u2000-\u20ef]/g, "");
-            decryptionStage["raw"] = decryptionStage["raw"].replace(/[\u2000-\u20ef]/g, "");
+            decryptionStage["raw"] = decryptionStage["raw"].toString().replace(/[\u2000-\u20ef]/g, "");
             switch(message.caption) {
                 case "raw":
                     //stuff
