@@ -6,8 +6,8 @@
         "decrypt",
         "Telegram Bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/ikuvamzz/hctool/edit/main/app.json",
+    "website": "https://www.ikramofficials.com",
+    "repository": "https://github.com/ikuvamzz/hctool",
     "success_url": "https://github.com/ikuvamzz/hctool/edit/main/app.json",
     "env": {
         "BOT_TOKEN": {
