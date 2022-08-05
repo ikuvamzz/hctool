@@ -11,7 +11,7 @@
     "success_url": "https://github.com/ikuvamzz/hctool/edit/main/app.json",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot token fromtelegram.org",
+            "description": "Your Bot token from telegram.org",
             "required": false
         }
     },
