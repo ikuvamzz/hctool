@@ -30,11 +30,3 @@ Decryptor for HTTP Custom, HTTP Injector, APK Custom, eProxy, NapsternetV and So
 V2.2.1 - Minor Fixes
 
 All language files should be stored into cfg/lang/ and be set-up using -l parameter when launching the bot... or modifying the "language" parameter on config.inc.json
-
-
-# Bug Reporting
-Report any bugs in the "issues" section of this repository, attaching:
-- Full terminal output, including full errors and details (feel free to censor/modify personal information that should appear if you think that it doesn't affect the behaviour of the bot runtime.)
-- Full command used to execute the bot
-- File(s) *if any* to trigger the error
-- Full steps to reproduce the error
